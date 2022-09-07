@@ -23,7 +23,4 @@
   ```
   yarn dev
   ```
-  Para iniciar o projeto em uma build utilize esse comando:
-  ```
-  yarn server
-  ```
+  É necessário também ter instalado o Postgree para fazer com que esse projeto funcione, ou é possivél alterar o Prisma para que seja posisvél usar SQLite
